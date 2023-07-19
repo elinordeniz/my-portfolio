@@ -7,7 +7,6 @@ function App() {
   const [darkMode, setDarkMode] = useState(false);
   useEffect(() => {
     if (trackingID !== "") {
-      console.log(trackingID);
       ReactGA.initialize(trackingID);
       ReactGA.send("pageview");
     }
