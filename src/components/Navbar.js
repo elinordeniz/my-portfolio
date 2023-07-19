@@ -4,7 +4,7 @@ FaBars,
 FaTimes
 } from "react-icons/fa";
 
-const Navbar = ({darkMode, setDarkMode}) => {
+const Navbar = ({setDarkMode}) => {
 
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     const toggleDarkMode = ()=>{
