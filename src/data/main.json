@@ -1,0 +1,15 @@
+{
+    "hero":{
+        "img":"elif2.jpeg",
+        "p1":"Hi, my name is",
+        "h1":"Elif Nur Deniz",
+        "h2":"I am a Jr Full Stack Developer",
+        "p2":"I am specializing in Javascript, React.js, Node.js, REST API, Tailwind CSS. I am currently focused on building MERN Stack Projects. My next goal is to learn and develop React Native Apps. I am passionate about solving problems and I definitely do it in a practical and creative way. The most I love about my job is the satisfaction once I figured out the challenging problems that I encounter."
+    },
+    "github":"https://github.com/elinordeniz",
+    "linkedin":"https://www.linkedin.com/in/elif-deniz-7a4b6b255/",
+    "email":"elinordeniz@gmail.com",
+    "cv":"elif-nur-deniz-cv.pdf",
+    "instagram":"#",
+    "footer":"Created by myself with React and Tailwind"
+}

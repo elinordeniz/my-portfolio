@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Mixy Word Game",
+    "detail": "Word Guess Game among given letter with hints. This is a full-stack react game fully responsive project with REST API backend. Backend part is among the projects. ",
+    "img": "assets/projects/mixy.png",
+    "github": "https://github.com/elinordeniz/mixy-word-game-react",
+    "demo": "https://main--velvety-torrone-2d0115.netlify.app/",
+    "techs": ["js", "react", "node", "mui", "rtk"]
+  },
+  {
+    "id": "2",
+    "name": "Household Tasks Managament",
+    "detail": "This is a MERN project with JWT and made for families to manage their houseworks. This app help parents to keep themselves and their children informed about their responsibilites. Backend part is among the projects.",
+    "img": "assets/projects/household.png",
+    "github": "https://github.com/elinordeniz/householdTasksApp",
+    "demo": "https://householdtaskapp.onrender.com/",
+    "techs": ["js", "react", "node", "mui", "rtk", "mongo"]
+  },
+  {
+    "id": "3",
+    "name": "Random Meal Recipe App",
+    "detail": "This app is very convinent if you cannot decide what meal to cook. It randomly returns meal on each click. You can also enter a key ingredient to get a related random meal. Meal recipes are fetched from an API I made with axios.",
+    "img": "assets/projects/recipe.png",
+    "github": "https://github.com/elinordeniz/random-recipe-app",
+    "demo": "elegant-zabaione-cefbfa.netlify.app",
+    "techs": ["js", "react", "node"]
+  },
+  {
+    "id": "4",
+    "name": "React Quiz App",
+    "detail": "This app is fully responsive React App with context api. An open source free REST API is used for questions axios fetch.",
+    "img": "assets/projects/quiz.png",
+    "github": "https://github.com/elinordeniz/quizz-app",
+    "demo": "https://sparkling-lamington-9aaec6.netlify.app",
+    "techs": ["js", "react", "mui"]
+  },
+  {
+    "id": "5",
+    "name": "React Tic Tac Toe",
+    "detail": "It is a fully responsive regular Tic Tac Toe Game created with React Context and Sass.",
+    "img": "assets/projects/tictactoe.png",
+    "github": "https://github.com/elinordeniz/tictactoe",
+    "demo": "https://master--comforting-horse-067809.netlify.app",
+    "techs": ["js", "react", "sass"]
+  },
+  {
+    "id": "6",
+    "name": "Mixy Word Api",
+    "detail": "It is the serverless REST API that I developed for my Mixy Mixy Word Game and also published on RAPID API.  It produces random words in a requested amount and varios difficulty levels.",
+    "img": "assets/projects/wordapi.png",
+    "github": "https://github.com/elinordeniz/mixy-word-guess-game-api",
+    "demo": "https://rapidapi.com/elinordeniz/api/mixy-word-guess-api",
+    "techs": ["js", "node", "express"]
+  },
+  {
+    "id": "7",
+    "name": "Meal Recipe Api",
+    "detail": "This is a serverless meal recipe api that I developed in express.js. As this is not commercial use I webscraped the various recipes from a website and make it an API.",
+    "img": "assets/projects/recipeapi.png",
+    "github": "https://github.com/elinordeniz?tab=repositories",
+    "demo": "https://rapidapi.com/elinordeniz/api/food-recipe-api",
+    "techs": ["js", "node", "express"]
+  },
+  {
+    "id": "8",
+    "name": "Household Tasks Api",
+    "detail": "This is a REST API that has protected routes with jwt. Only registerd members can log in, and admin (or authorized users) have priviliges for some actions and routes. ",
+    "img": "assets/projects/householdapi.png",
+    "github": "https://github.com/elinordeniz/householdTasksApi",
+    "demo": "https://householdtaskapp.onrender.com",
+    "techs": ["js", "node", "express"]
+  }
+]

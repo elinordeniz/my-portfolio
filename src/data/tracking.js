@@ -1,0 +1,1 @@
+export const trackingID=process.env.REACT_APP_TRACKING_ID;
