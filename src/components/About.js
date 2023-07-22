@@ -7,7 +7,7 @@ const About = () => {
   return (
     <section
     id="about"
-      className="flex max-w-[1400px] mx-auto p-8 my-8 justify-center items-center bg-pink-50 dark:bg-slate-600 dark:text-slate-100 scroll-mt-20"
+      className="flex max-w-[1400px] mx-auto p-10 my-8 justify-center items-center bg-pink-50 dark:bg-slate-600 dark:text-slate-100 scroll-mt-20"
     >
       {/* about text and photo */}
       <div  className="flex flex-col max-w-[1400px] justify-center overflow-auto ">
@@ -65,7 +65,7 @@ const About = () => {
 
           <div
             id="skills"
-            className="max-w-[400px] lg:w-[600px] space-y-9  p-5 scroll-mt-28  "
+            className="max-w-[400px] lg:w-[650px] space-y-9  p-5 scroll-mt-28  "
           >
             <h1 className="text-3xl font-semibold tracking-wide mb-10">
               Skills

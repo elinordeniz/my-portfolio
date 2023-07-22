@@ -2,11 +2,11 @@
   "aboutText": "  I was born in 1998 in Istanbul, Turkey. I started at the university in 2016 in the Software Engineering department. After two years, I couldn't make it due to my health problems. Later I have gotten a bachelor's in Information Management Systems.\n\tI speak Turkish (native), English (advanced), Arabic (elementry), Dutch (elementry). Although I couldn't complete my software engineering bachelor's, I have always wanted to be a software developer. So I kept going little by little in time. Now I put all my effort into being a specialized full-stack developer. I think I am a good fit for this job. I am creative with a practical mind that allows me to approach problems from another perspective. One of my strengths is my competitive side which makes me more determined on a project I work on. The other is that when an error or a problem occurs on the project, I can be 100% concentrated on it until I have figured it out. I remember once I had tried to solve an issue in my code for a nonstop 16 hours.",
   "timeline": [
     {
-        "date": "01.2023 - Current",
-        "title": "Self Learning MERN Stack ",
-        "desc": "I put my all effort and time into learning and developing MERN stack projects since Jan 2023.",
-        "details": "•  Node.js, Express.js-REST API, React, MongoDB, Tailwind"
-      },
+      "date": "01.2023 - Current",
+      "title": "Self Learning MERN Stack ",
+      "desc": "I put my all effort and time into learning and developing MERN stack projects since Jan 2023.",
+      "details": "•  Node.js, Express.js-REST API, React, MongoDB, Tailwind"
+    },
     {
       "date": "08.2021-01.2023",
       "title": "Intern Developer at Maspak Company",
@@ -36,52 +36,52 @@
     {
       "skill": "HTML",
       "progress": "90%",
-      "classname": "bg-orange-500  w-[90%] text-black"
+      "classname": "a"
     },
     {
       "skill": "CSS",
       "progress": "70%",
-      "classname": "bg-blue-600 w-[70%] text-white"
+      "classname": "b"
     },
     {
       "skill": "Javascript",
       "progress": "90%",
-      "classname": "bg-yellow-400 w-[90%] text-black"
+      "classname": "c"
     },
     {
       "skill": "React.js",
       "progress": "80%",
-      "classname": "bg-blue-400 w-[80%] text-white"
+      "classname": "d"
     },
     {
       "skill": "Node.js - Rest API",
       "progress": "75%",
-      "classname": "bg-green-700 w-[75%] text-white"
+      "classname": "e"
     },
     {
       "skill": "Tailwind CSS",
       "progress": "75%",
-      "classname": "bg-blue-300 w-[75%] text-black"
+      "classname": "f"
     },
     {
       "skill": "Mongo DB",
       "progress": "65%",
-      "classname": "bg-green-300 text-black w-[65%]"
+      "classname": "g"
     },
     {
       "skill": "PHP",
       "progress": "65%",
-      "classname": "bg-purple-400 text-white w-[65%]"
+      "classname": "h"
     },
     {
       "skill": "JQUERY",
       "progress": "70%",
-      "classname": "bg-blue-900 text-white w-[70%]"
+      "classname": "i"
     },
     {
       "skill": "Adobe Photoshop",
       "progress": "85%",
-      "classname": "bg-blue-800 text-white w-[85%]"
+      "classname": "j"
     }
   ]
 }
