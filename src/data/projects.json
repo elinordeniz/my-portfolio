@@ -70,5 +70,23 @@
     "github": "https://github.com/elinordeniz/householdTasksApi",
     "demo": "https://householdtaskapp.onrender.com",
     "techs": ["js", "node", "express"]
+  },
+  {
+    "id": "9",
+    "name": "Web Socket React Chat App",
+    "detail": "This is a fully responsive full stack Chat App with web socket. The backend is an express MVC Rest Api with jwt. ",
+    "img": "assets/projects/chatapp.png",
+    "github": "https://github.com/elinordeniz/websocket-react-chat-app",
+    "demo": "https://ws-react-chat-app.onrender.com",
+    "techs": ["js", "node", "express, react, tailwind, mongo"]
+  },
+  {
+    "id": "10",
+    "name": "Web Socket Chat Rest Api",
+    "detail": "This is the backend api of the web socket react chat app in my portfolio. ",
+    "img": "assets/projects/chatapp.png",
+    "github": "https://github.com/elinordeniz/web-socket-chat-api",
+    "demo": "https://ws-react-chat-app.onrender.com",
+    "techs": ["js", "node", "express, react, tailwind, mongo"]
   }
 ]
