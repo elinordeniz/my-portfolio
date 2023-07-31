@@ -78,7 +78,7 @@
     "img": "assets/projects/chatapp.png",
     "github": "https://github.com/elinordeniz/websocket-react-chat-app",
     "demo": "https://ws-react-chat-app.onrender.com",
-    "techs": ["js", "node", "express, react, tailwind, mongo"]
+    "techs": ["js", "node", "express", "react", "tailwind", "mongo"]
   },
   {
     "id": "10",
@@ -87,6 +87,6 @@
     "img": "assets/projects/chatapp.png",
     "github": "https://github.com/elinordeniz/web-socket-chat-api",
     "demo": "https://ws-react-chat-app.onrender.com",
-    "techs": ["js", "node", "express, react, tailwind, mongo"]
+    "techs": ["js", "node", "express", "react", "tailwind", "mongo"]
   }
 ]
