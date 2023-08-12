@@ -5,7 +5,7 @@ const Project = ({name, detail, img, github, demo, techs}) => {
   return (
     <div className='pb-5 overflow-auto my-2 border-2 border-pink-400 border-opacity-5 max-w-[500px] h-auto hover:bg-pink-50 transition-all shadow-md dark:hover:bg-slate-400'>
     <img src={img} alt="" className='w-full h-auto dark:opacity-70' />
-    <h1 className='text-3xl text-center mt-5 font-semibold'>{name}</h1>
+    <h1 className='sm:text-2xl md:text-3xl text-center mt-5 font-semibold p-4'>{name}</h1>
     <Logos techs={techs} />
     <div  className='text-center justify-center items-center my-3 italic p-3 sm:h-[150px] lg:h-[120px] overflow-auto'>{detail}</div>
     <div className='flex space-x-5 my-3 mt-4 justify-center items-center '>
