@@ -88,5 +88,14 @@
     "github": "https://github.com/elinordeniz/web-socket-chat-api",
     "demo": "https://ws-react-chat-app.onrender.com",
     "techs": ["js", "node", "express", "react", "tailwind", "mongo"]
+  },
+  {
+    "id": "11",
+    "name": "React Quran App with react-window",
+    "detail": "It has more than 6,000 components to be render on home page with a search for filtering onChange. But, thanks to react window the app renders only window size components with high-performance",
+    "img": "assets/projects/kuranmeal.png",
+    "github": "https://github.com/elinordeniz/react-window-large-list-quran-app",
+    "demo": "https://react-quran-app.onrender.com",
+    "techs": ["js", "react", "rtk", "sass"]
   }
 ]
